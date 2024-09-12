@@ -1,5 +1,5 @@
 # UCLA-Brain-Metastasis
-This repo contains a collection of R scripts I wrote during my time working in the Slamon Lab at UCLA to analyze raw output from an IVIS Bioluminescence imager. First, mice were injected with cancer cell lines via intracardiac injection and bioluminescence (flux), weight and survival were recorded during each week of the study. Below is an example of what these images look like...
+This repo contains a collection of R scripts I wrote during my time working in the Slamon Lab at UCLA to analyze raw output from an IVIS Imaging System. First, mice were injected with cancer cell lines via intracardiac injection and bioluminescence (flux), weight and survival were recorded during each week of the study. Below is an example of what these images look like...
 
 ![Mouse Brain Met Example](./mouse_brain_met.png)
 
